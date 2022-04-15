@@ -1,0 +1,2 @@
+Link para dowload do Git: https://git-scm.com/downloads
+O git Bash é um console terminal extendid para otimizar o uso do Git.
